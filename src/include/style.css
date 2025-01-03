@@ -1,0 +1,162 @@
+BODY {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.regularText {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.regularTextBold {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif;font-weight: bold; 
+}
+.regularTextSmall {
+	FONT-SIZE: 10px; COLOR: #333333; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.regularTextBlueSmall {
+	FONT-SIZE: 10px; COLOR: #000099; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.inputbox{
+	font-size:12px;
+	border-color:#0099CC;
+}
+.buttonc
+{
+	font-size:9px;
+	border-color:#0099CC;
+}
+.formTextbox {
+	FONT: 12px Arial, Helvetica, sans-serif;
+	COLOR: #000000;
+}
+.formTextboxBorderless {
+	FONT: 12px Arial, Helvetica, sans-serif;
+	COLOR: #000000;
+	border: none;
+}
+.formbutton {
+	FONT: 10px Arial, Helvetica, sans-serif;
+	COLOR: #000000;
+	background-color: #CCCCCC;
+
+}
+A:link {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #000099; TEXT-DECORATION: underline
+}
+TD {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	border: none;
+}
+
+TR.head {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-color: #E8E8E8;
+	border-bottom: thin inset #CCCCCC;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-left-width: thin;
+}
+LI {
+	COLOR: #000000
+}
+UL {
+	COLOR: #000000; LIST-STYLE-TYPE: square
+}
+OL {
+	COLOR: #000000
+}
+
+.bluebold{
+	font-weight: bold;
+	color: #000099;
+
+}
+
+A.bluebold:link {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A.bluebold:visited {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A.bluebold:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A.bluebold:active {
+	COLOR: #000099; TEXT-DECORATION: underline
+}
+.red{
+	color: #800000;
+}
+
+A.red:link {
+	COLOR: #800000; TEXT-DECORATION: none
+}
+A.red:visited {
+	COLOR: #800000; TEXT-DECORATION: none
+}
+A.red:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A.red:active {
+	COLOR: #800000; TEXT-DECORATION: underline
+}
+
+
+.redbold{
+	font-weight: bold;
+	color: #800000;
+
+}
+
+A.redbold:link {
+	COLOR: #800000; TEXT-DECORATION: none
+}
+A.redbold:visited {
+	COLOR: #800000; TEXT-DECORATION: none
+}
+A.redbold:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A.redbold:active {
+	COLOR: #800000; TEXT-DECORATION: underline
+}
+
+Input {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; BACKGROUND-COLOR: #ffffff
+}
+Submit {
+	CURSOR: hand;
+	BACKGROUND-COLOR: #99CCFF;
+	border: thin solid #666666;
+}
+.SectionHead {
+	FONT-SIZE: 14px;
+	font-weight: bold;
+	color:#000099;
+}
+.message {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.listbox{
+	font-size:9px;
+	border:thin;
+}
+.textarea{
+	border:medium;
+	color:#FF0000
+}	

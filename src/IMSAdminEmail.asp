@@ -1,0 +1,3 @@
+<%
+IMSAdminEmail = "imsadmin@gtsims.com"
+%>

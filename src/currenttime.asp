@@ -1,0 +1,4 @@
+<%
+
+response.Write(now)
+%>
